@@ -11,4 +11,4 @@ Cloning Momentum with ValnillaJS
 - [x] Offline support
 
 ## Try it out
-https://byungsujeong.github.io/jomentom/
+https://byungsujeong.github.io/jomentum/
